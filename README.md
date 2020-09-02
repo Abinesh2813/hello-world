@@ -20,6 +20,5 @@
   <li>Milk</li>
   <li>Milk</li>
 </ol> 
-
 </body>
 </html>
