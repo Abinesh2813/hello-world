@@ -9,6 +9,7 @@
   <li>Coffee</li>
   <li>Tea</li>
   <li>Milk</li>
+  <li>Milk</li>
 </ul>  
 
 <h2>An Ordered HTML List</h2>
