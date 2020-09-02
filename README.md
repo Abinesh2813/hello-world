@@ -4,7 +4,6 @@
 <body>
 
 <h2>An Unordered HTML List</h2>
-
 <ul>
   <li>Coffee</li>
   <li>Tea</li>
