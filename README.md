@@ -18,6 +18,7 @@
   <li>Coffee</li>
   <li>Tea</li>
   <li>Milk</li>
+  <li>Milk</li>
 </ol> 
 
 </body>
